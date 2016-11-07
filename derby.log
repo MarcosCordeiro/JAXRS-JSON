@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Nov 04 17:26:27 BRST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0158-30ce-7892-000002c19b78 
+on database directory /home/marcosc/Desktop/simpleDb  with class loader sun.misc.Launcher$AppClassLoader@19e0bfd 
+Loaded from file:/home/marcosc/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_73-b02
+user.dir=/home/marcosc/Desktop/workspace/JAXRS-JSON
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
